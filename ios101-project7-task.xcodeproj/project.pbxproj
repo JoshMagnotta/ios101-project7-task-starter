@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03E117992EB006EC0001905D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CB602B9529247359006C6727 /* ios101-project7-task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios101-project7-task.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB602B9829247359006C6727 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB602B9A29247359006C6727 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -48,6 +49,7 @@
 		CB602B8C29247359006C6727 = {
 			isa = PBXGroup;
 			children = (
+				03E117992EB006EC0001905D /* README.md */,
 				CB602B9729247359006C6727 /* ios101-project7-task */,
 				CB602B9629247359006C6727 /* Products */,
 			);
